@@ -32,7 +32,9 @@ An interactive web app to upload and visualize datasets (CSV, Excel, JSON) using
 ---
 
 ## 📦 Installation
-git clone https://github.com/Richajadyal/Smart-data-visualizer
+
+git clone https://github.com/Richajadyal/Smart-data-visualizer.git
 cd Smart-data-visualizer
 pip install -r requirements.txt
 streamlit run smart_visualizer.py
+
