@@ -36,6 +36,6 @@ An interactive web app to upload and visualize datasets (CSV, Excel, JSON) using
 ```bash
 git clone https://github.com/Richajadyal/Smart-data-visualizer.git
 cd Smart-data-visualizer
-pip install -r requirements.txt
+pip install -r Smart-Data-Visualizer req.txt
 streamlit run smart_visualizer.py
 
