@@ -39,4 +39,9 @@ cd Smart-data-visualizer
 pip install -r requirements.txt
 streamlit run app.py
 
+## 🌐 Live Demo
+
+[👉 Click here to try the Smart Data Visualizer](https://smart-data-visualizer.streamlit.app/)
+
+
 
