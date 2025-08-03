@@ -39,6 +39,42 @@ cd Smart-data-visualizer
 pip install -r requirements.txt
 streamlit run app.py
 ```
+---
+
+## ✨ Impact
+- **User-Friendly:** Simplifies the process of performing EDA for beginners and professionals.
+- **Time-Saving:** Quickly generates visual insights from datasets.
+- **Interactive:** Provides real-time, dynamic visualizations with minimal setup.
+- **Educational:** Helps users understand data visualization techniques effectively.
+
+---
+
+## 🌍 Contributing
+All contributions, feature suggestions, and bug reports are welcome!  
+Please open an issue or submit a pull request.
+
+---
+
+## 📜 License
+MIT License
+
+---
+
+## 🙌 Acknowledgments
+- [Streamlit Community]  
+- [Pandas Developers]  
+- [Plotly Contributors]  
+- [Matplotlib and Seaborn Teams]  
+
+---
+
+## 📫 Contact
+**Richa Prashant Jadyal** — *jadyalricha@gmail.com*  
+[LinkedIn](https://www.linkedin.com/in/richa-jadyal-68b138259/) | [GitHub](https://github.com/Richajadyal)
+
+---
+
+> *A simple yet powerful tool to make data exploration effortless!*
 
 ---
 
